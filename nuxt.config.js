@@ -14,7 +14,6 @@ export default {
       }
     }
   },
-
   head: {
     title: 'test-star-wars',
     meta: [
